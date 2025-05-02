@@ -10,6 +10,6 @@ You can configure the display to your needs:
 
 - Colors (background and dot color)
 - Line name (shown in the top-left corner)
--  Line destination (first row)
+- Line destination (first row)
 - Additional information such as intermediate stations or notes (second and third row)
 - Countdown target (optional): displays a live countdown to a given date/time, e.g. for departure
