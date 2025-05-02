@@ -4,7 +4,7 @@ This application renders an emulation of a dot matrix display used for [train de
 
 Here is an example of what it looks like:
 
-![trainDestinationDisplay](https://github.com/user-attachments/assets/39fa956e-aaae-441d-b740-9f0fa0b4257a)
+![trainDestinationDisplay-animated](https://github.com/user-attachments/assets/fb9c0551-73c4-4b38-8116-c4737825c264)
 
 You can configure the display to your needs:
 
