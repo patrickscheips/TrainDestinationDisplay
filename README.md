@@ -1,6 +1,6 @@
 # Train Destination Display
 
-This application renders an emulation of a dot matrix display used for [train destination displays](https://en.wikipedia.org/wiki/Platform_display). It is inspired by the displays used by the Hamburg U-Bahn system in Germany until 2025. The simulated dot pattern gives it a nostalgic retro feel.
+This application renders an emulation of a dot matrix display used for [train destination displays](https://en.wikipedia.org/wiki/Platform_display). It is inspired by the displays used by the [Hamburg U-Bahn system](https://en.wikipedia.org/wiki/Hamburg_U-Bahn) in Germany until 2025. The simulated dot pattern gives it a nostalgic retro feel.
 
 Here is an example of what it looks like:
 
