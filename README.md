@@ -12,4 +12,4 @@ You can configure the display to your needs:
 - Line name (shown in the top-left corner)
 - Line destination (first row)
 - Additional information such as intermediate stations or notes (second and third row)
-- Countdown target (optional): displays a live countdown to a given date/time, e.g. for departure
+- Countdown target: displays a live countdown to a given date/time, e.g. for departure
